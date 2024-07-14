@@ -1,4 +1,4 @@
--- [[As you guys can see from the variable names, suno patched my crack :(((
+--[[As you guys can see from the variable names, suno patched my crack :(((
 Execute this before executing Starry dogshit script!
 ]]
 
